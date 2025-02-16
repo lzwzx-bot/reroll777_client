@@ -1,7 +1,7 @@
 
 const config = {
 	state: {
-        site_name:"VALKYR777",
+        site_name:"REROLL777",
         download_url:"https://download.WynnXwin.com/",
         ssid:"",
         error:localStorage.getItem('error')||null,
