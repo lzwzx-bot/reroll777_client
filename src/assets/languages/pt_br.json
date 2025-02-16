@@ -1,0 +1,182 @@
+{
+    "确认":"OK",
+    "语言":"Linguagem",
+    "钱符": "R$",
+    "热门": "Popular",
+    "新款": "Novo",
+    "耐玩": "Diversão",
+    "全部": "Todos",
+    "游戏": "Jogo",
+    "抽奖": "Loteria",
+    "转盘": "Roleta",
+    "账户": "Conta",
+    "今日盈利": "Lucro Hoje",
+    "打码要求": "Rollover",
+    "佣金": "Comissão",
+    "总资产": "Ativos Totais",
+    "查看钱包": "Ver Carteira",
+    "我要充值": "Depósito",
+    "我要提现": "Retirar",
+    "游戏记录": "Registro Do Jogo",
+    "下注明细": "Detalhes Da Nota",
+    "在线客服": "Serviço On-line",
+    "我的钱包": "Minha Bolsa",
+    "充值记录": "Lista De Depósito",
+    "提现记录": "Lista De Retirada",
+    "银行卡": "Cartão Do Banco",
+    "我的团队": "Meu Time",
+    "退出": "Desistir",
+
+
+
+    "请输入手机号码或邮箱":"número de telefone",
+    "请输入密码":"por favor digite a senha",
+    "记住我":"lembre de mim",
+    "忘记密码":"esqueça a senha",
+    "登录":"Conecte-se",
+    "还没账号?":"Não tem uma conta ainda?",
+   
+    "请输入正确的手机号码":"Por favor, insira o número de telefone correto",
+    "密码为6-18位":"A senha é de 6 a 18 dígitos",
+    "登录成功":"login bem-sucedido",
+    "请输入您的手机号":"Número de telefone",
+    "请设置登录密码":"Senha",
+    "重复登录密码":"Confirme senha",
+    "立即注册":"Inscreva-se agora",
+    "手机号码不能为空":"O número de telefone não pode ficar em branco",
+    "密码长度为6-18位":"O comprimento da senha é de 6 a 18 dígitos",
+    "两次密码不一致":"As duas senhas não combinam",
+    "注册成功":"Registro bem sucedido",
+    "已有账号?":"Já tem uma conta?",
+    "立即登录":"faça login imediatamente",
+    "系统繁忙,请稍后再尝试":"O sistema está ocupado, tente novamente mais tarde",
+
+
+
+    
+    "订单号":"Ordem",
+    "已付款":"Já pago",
+    "未付款":"não pago",
+    "充值金额":"Valor da Depósito",
+    "付款金额":"Pagamento",
+    "到账金额":"Montante recebido",
+    "否":"não",
+    "是":"sim",
+    "是否充值活动":"Seja para Depósito as atividades",
+    "创建时间":"tempo de criação",
+
+
+    "充值":"Depósito",
+    "活动类型":"tipo de atividade",
+    "活动说明":"Descrição do Evento",
+    "充值多少,到账多少金额,比如充值25,到账25":"Quanto Depósito, quanto na conta, por exemplo, Depósito 25, conta 25",
+    "充值多送":"Recarregue e envie mais",
+    "到账金额为 充值金额 + 充值金额 * ":"O valor creditado é valor de Depósito + valor de Depósito * ",
+    "正常充值":"Depósito Sem Bônus",
+    "支付":"Pagar",
+    "最低充值金额为R$":"O valor mínimo da Depósito é de R$",
+
+
+
+    "提现":"Saque",
+    "可提现金额":"Retirável",
+    "请输入您的数量":"Digite seu valor",
+    "最低":"Minimo ",
+    "请输入提现数量":"Digite seu valor",
+    "提现手续费":"Taxa de Retirada",
+    "电话号码":"Número de telefone",
+    "请输入电话号码":"Número de telefone",
+    "Pix type":"Tipo de pix",
+    "Chave Pix(CPF)":"Chave Pix(CPF)",
+    "Input Pix(CPF)":" Pix de Entrada(CPF)",
+    "CPF":"CPF",
+    "Input CPF":"CPF de Entrada",
+    "Email":"Email",
+    "Input Email address":"Email de Entrada",
+    "当前可提现金额为0":"O valor atual da retirada de dinheiro é 0",
+    "提现金额不正确":"O valor da retirada está incorreto",
+    "提现金额大于可提现金额":"O valor da retirada é maior do que o valor que pode ser retirado",
+    "提现金额小于最低提现金额":"O valor de retirada é menor que o valor mínimo de retirada",
+    "手机号码不正确":"o número de telefone está incorreto",
+    "Chave Pix(CPF) 不正确":"Chave Pix(CPF) Incorreta",
+    "CPF不正确":"CPF Incorreta",
+    "提现成功":"Retirada bem-sucedida",
+
+
+    "失败":"falhar",
+    "提现金额":"Quantidade retirada",
+    "手续费":"taxa de manuseio",
+    "备注":"Observação",
+    "查看详情":"detalhes",
+    "共赢得":"obter um total de",
+
+    "我的邀请链接":"meu link de convite",
+    "累计邀请佣金":"Comissão de referência cumulativa",
+    "邀请规则":"regras de convite",
+    "邀请一个有效充值客户,您将获取":"Convide um cliente de Depósito válido, você receberá",
+    "系统自动发放,马上到账":"Emitido automaticamente pelo sistema, chega imediatamente na conta",
+    "额外奖励":"Recompensas adicionais",
+    "累计人数":"número cumulativo",
+    "奖励金额":"valor do prêmio",
+    "复制成功":"copie com sucesso",
+
+
+    "下注记录":"registro de aposta",
+    "下注金额":"valor da aposta",
+    "打码金额":"Rollover",
+    "盈利":"lucro",
+
+
+
+
+
+
+    "修改密码":"Alterar a senha",
+    "新密码":"Nova Senha",
+    "发送":"Enviar",
+    "短信验证码":"Código de verificação SMS",
+    "发送成功":"Enviado com sucesso",
+    "短信验证码不能为空":"Código de verificação SMS",
+
+    "类别":"Tipo",
+    "邀请人数":"Convidar",
+    "充值人数":"Depósito",
+    "总计":"Total",
+    "请输入游戏名称":"Por favor, entre no jogo",
+
+    "拒绝":"Rejeitar",
+    "审核中":"Sob Revisão",
+    "已打款":"Pagamento Completo",
+    "打款中":"Pagando",
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "昵称":"Apelido",
+    "提交":"enviar",
+    "佣金提现":"Retirada da Comissão",
+
+    "收藏":"coletar",
+    "高回报":"Alto retorno",
+    "地雷":"minas",
+    "钓鱼":"pescaria",
+
+
+
+    "佣金转换":"Converter",
+    "是否充值":"Quer recarregar",
+    "佣金余额":"Saldo da comissão",
+    "转换金额":"Valor da conversão",
+    "取消":"Cancelar",
+
+    "":""
+}

@@ -1,0 +1,177 @@
+{
+    "确认":"confirm",
+    "语言":"language",
+    "钱符": "R$",
+    "热门": "Hot",
+    "新款": "New",
+    "耐玩": "Fun",
+    "全部": "All",
+    "游戏": "Game",
+    "抽奖": "Lottery Draw",
+    "转盘": "Turntable",
+    "账户": "Account",
+    "今日盈利": "Today's profit",
+    "打码要求": "Rollover",
+    "佣金": "Commission",
+    "总资产": "Assets",
+    "查看钱包": "Wallet",
+    "我要充值": "Recharge",
+    "我要提现": "Withdraw",
+    "游戏记录": "Game Record",
+    "下注明细": "Bet details",
+    "在线客服": "Online Service",
+    "我的钱包": "Wallet",
+    "充值记录": "Recharge Record",
+    "提现记录": "Withdrawals Record",
+    "银行卡": "Bank card",
+    "我的团队": "My Team",
+    "退出": "Sign Out",
+
+
+    "请输入手机号码或邮箱":"Phone Number",
+    "请输入密码":"Please Enter Password",
+    "记住我":"Remember Me",
+    "忘记密码":"Forget the Password",
+    "登录":"Log in",
+    "还没账号?":"No Account yet?",
+   
+    "请输入正确的手机号码":"Please enter the correct phone number",
+    "密码为6-18位":"The password is 6-18 digits",
+    "登录成功":"Login Successful",
+    "请输入您的手机号":"Please enter the correct phone number",
+    "请设置登录密码":"Please set a login password",
+    "重复登录密码":"Repeat login password",
+    "立即注册":"Sign up now",
+    "手机号码不能为空":"Phone number can not be blank",
+    "密码长度为6-18位":"The password is 6-18 digits",
+    "两次密码不一致":"The two passwords do not match",
+    "注册成功":"Registration Success",
+    "已有账号?":"Already have an account?",
+    "立即登录":"Log in",
+    "系统繁忙,请稍后再尝试":"The system is busy, please try again later",
+
+
+
+    
+    "订单号":"Order Number",
+    "已付款":"Already paid",
+    "未付款":"Unpaid",
+    "充值金额":"Recharge amount",
+    "付款金额":"Payment amount",
+    "到账金额":"Receipt amount",
+    "否":"No",
+    "是":"Yes",
+    "是否充值活动":"Whether to recharge activities",
+    "创建时间":"Creation Time",
+
+
+    "充值":"Recharge",
+    "活动类型":"Type Of Activity",
+    "活动说明":"Event Description",
+    "充值多少,到账多少金额,比如充值25,到账25":"How much to recharge, how much to the account, for example, recharge 25, account 25",
+    "充值多送":"Recharge and send more",
+    "到账金额为 充值金额 + 充值金额 * ":"The credited amount is recharge amount + recharge amount *",
+    "正常充值":"Normal Recharge",
+    "支付":"Pay",
+    "最低充值金额为R$":"The minimum top-up amount is R$",
+
+
+
+    "提现":"Withdraw",
+    "可提现金额":"Withdrawable",
+    "请输入您的数量":"Please enter your quantity",
+    "最低":"Min",
+    "请输入提现数量":"Please enter the withdrawal amount",
+    "提现手续费":"Withdrawal Fee",
+    "电话号码":"Telephone Number",
+    "请输入电话号码":"Please enter your phone number",
+    "Pix type":"Pix type",
+    "Chave Pix(CPF)":"Chave Pix(CPF)",
+    "Input Pix(CPF)":"Input Pix(CPF)",
+    "CPF":"CPF",
+    "Input CPF":"Input CPF",
+    "Email":"Email",
+    "Input Email address":"Input Email address",
+    "当前可提现金额为0":"The current cash withdrawal amount is 0",
+    "提现金额不正确":"Withdrawal amount is incorrect",
+    "提现金额大于可提现金额":"Withdrawal amount is greater than the amount that can be withdrawn",
+    "提现金额小于最低提现金额":"The withdrawal amount is less than the minimum withdrawal amount",
+    "手机号码不正确":"the phone number is incorrect",
+    "Chave Pix(CPF) 不正确":"Chave Pix(CPF) Incorrect",
+    "CPF不正确":"CPF Incorrect",
+    "提现成功":"Successful withdrawal",
+
+
+    "失败":"Fail",
+    "提现金额":"Withdrawal Amount",
+    "手续费":"Fee",
+    "备注":"Mark",
+    "查看详情":"Detail",
+    "共赢得":"Totol Win",
+
+
+    "我的邀请链接":"My Invite Link",
+    "累计邀请佣金":"Cumulative referral commission",
+    "邀请规则":"invitation rules",
+    "邀请一个有效充值客户,您将获取":"Invite a valid recharge customer, you will get",
+    "系统自动发放,马上到账":"Automatically issued by the system, immediately arrive at the account",
+    "额外奖励":"Additional rewards",
+    "累计人数":"Cumulative number",
+    "奖励金额":"Award amount",
+    "复制成功":"Copy Successfully",
+
+    "下注记录":"Betting Record",
+    "下注金额":"Bet Amount",
+    "打码金额":"Rollover",
+    "盈利":"Profit",
+
+
+
+
+
+
+
+
+
+    "修改密码":"Change Password",
+    "新密码":"New Password",
+    "发送":"Send",
+    "短信验证码":"SMS verification code",
+    "发送成功":"Sent successfully",
+    "短信验证码不能为空":"SMS verification code cannot be empty",
+
+    "类别":"Type",
+    "邀请人数":"Invited",
+    "充值人数":"Recharge Number",
+    "总计":"Total",
+    "请输入游戏名称":"Please enter the game name",
+
+    "拒绝":"Reject",
+    "审核中":"Under Review",
+    "已打款":"Completed",
+    "打款中":"Paying",
+
+
+
+
+
+
+
+
+    "昵称":"Nickname",
+    "提交":"Submit",
+    "佣金提现":"Commission Withdrawal",
+
+    "收藏":"collect",
+    "高回报":"High return",
+    "地雷":"mines",
+    "钓鱼":"fishing",
+
+    "佣金转换":"commission conversion",
+    "是否充值":"Whether to recharge",
+    "佣金余额":"Commission balance",
+    "转换金额":"Conversion amount",
+    "取消":"Cancel",
+
+    "":""
+}

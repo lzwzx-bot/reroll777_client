@@ -1,0 +1,105 @@
+
+
+#app .footer {
+    position: fixed;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 48px;
+    flex: 0 0 48px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: #fff;
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    bottom: 0;
+    height: 60px;
+    z-index: 99;
+}
+
+#app .footer .footer_item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    cursor: pointer;
+    color: #916AB8;
+    width: 60px;
+}
+
+#app .footer .footer_item .footer_icon {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    // filter: hue-rotate(218deg);
+}
+
+#app .footer .footer_item .footer_icon.footer_icon_home {
+    background-image: url(/assets/images/images/footer/jogo.png);
+}
+
+#app .footer .footer_item .footer_icon.footer_icon_cart {
+    background-image: url(/assets/images/footer/share.png);
+}
+
+#app .footer .footer_item .footer_icon.footer_icon_recharge {
+    background-image: url(/assets/images/footer/recharge.png);
+}
+
+#app .footer .footer_item .footer_icon.footer_icon_suporte {
+    background-image: url(/assets/images/footer/active.png);
+}
+
+
+
+#app .footer .footer_item .footer_icon.footer_icon_user {
+    background-image: url(/assets/images/footer/bonus.png);
+}
+
+#app .footer .footer_item .footer_info {
+    font-size: 12px;
+    color: #895DB3;
+}
+
+#app .footer .footer_item.footer_item_active .footer_info {
+
+    font-weight: 700;
+    color: #5D075D;
+}
+
+#app .footer .footer_item.footer_item_active .footer_icon.footer_icon_home {
+    background-image: url(/assets/images/footer/jogo_a.png);
+}
+
+#app .footer .footer_item.footer_item_active .footer_icon.footer_icon_cart {
+    background-image: url(/assets/images/footer/share_a.png);
+}
+
+#app .footer .footer_item.footer_item_active .footer_icon.footer_icon_recharge {
+    background-image: url(/assets/images/footer/active_a.png);
+}
+
+#app .footer .footer_item.footer_item_active .footer_icon.footer_icon_suporte {
+    background-image: url(/assets/images/footer/share_a.png);
+}
+
+
+#app .footer .footer_item.footer_item_active .footer_icon.footer_icon_user {
+    background-image: url(/assets/images/footer/bonus_a.png);
+}
